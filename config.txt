@@ -1,0 +1,5 @@
+## optional config
+# Rule2DateToleranceDays=1
+# Rule3AmountTolerance=5.00
+# Rule4DateToleranceDays=2
+# Rule4AmountTolerance=5.00

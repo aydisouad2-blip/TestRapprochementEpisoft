@@ -1,0 +1,78 @@
+Date,Description,Amount
+2023-10-01,AMAZON PAYMENT,-42.99
+2023-10-01,AMAZON PAYMENT,-19.90
+2023-10-01,ACME SAS INVOICE 4587,-542.24
+2023-10-01,Spotify Subscription,-10.99
+2023-10-01,Coffee Shop,-6.80
+2023-10-02,Bank Charges,-3.20
+2023-10-02,Carrefour Purchase,-18.50
+2023-10-02,FNAC Purchase,-89.99
+2023-10-03,Phone Invoice,-24.99
+2023-10-03,Payroll October,2500.00
+2023-10-03,Rent October,-950.00
+2023-10-04,UBER BV,-12.30
+2023-10-03,Lunch,-14.60
+2023-10-04,Decathlon Purchase,-120.00
+2023-10-04,Insurance Premium,-76.49
+2023-10-05,AMAZON PAYMENT,-42.99
+2023-10-04,Pharmacy,-23.40
+2023-10-05,Electricity Invoice,-123.45
+2023-10-05,NETFLIX.COM,-15.99
+2023-10-06,Internal Transfer Savings,-300.00
+2023-10-06,Restaurant Le Parc,-58.40
+2023-10-06,Cash Withdrawal,-100.00
+2023-10-06,Leroy Merlin,-34.95
+2023-10-06,Fuel Station,-62.10
+2023-10-06,AMAZON PAYMENT,-7.99
+2023-10-08,Tax Payment,-410.00
+2023-10-07,Bakery,-4.20
+2023-10-07,Cinema,-15.00
+2023-10-08,IKEA,-210.30
+2023-10-08,ACME SAS INVOICE 4599,-520.38
+2023-10-08,Bank Card Fee,-1.50
+2023-10-09,Bookstore,-22.70
+2023-10-10,AMAZON PAYMENT,-42.99
+2023-10-09,AMAZON PAYMENT,-29.95
+2023-10-09,Water Invoice,-31.20
+2023-10-09,Parking,-2.50
+2023-10-10,AMAZON PAYMENT,-12.49
+2023-10-10,H&M,-55.00
+2023-10-10,UBER BV,-9.80
+2023-10-10,Coffee,-3.10
+2023-10-11,Gym Membership,-35.00
+2023-10-11,App Store Purchase,-2.99
+2023-10-11,Restaurant,-44.20
+2023-10-12,Internet Provider,-39.99
+2023-10-12,Train Ticket,-78.60
+2023-10-12,Groceries,-36.75
+2023-10-13,AMAZON PAYMENT,-15.49
+2023-10-13,Sport Shop,-64.00
+2023-10-13,Charity Donation,-20.00
+2023-10-14,Internal Transfer Savings,300.00
+2023-10-14,Restaurant,-32.10
+2023-10-14,Hotel,-180.00
+2023-10-15,Flight,-220.00
+2023-10-15,Taxi,-28.70
+2023-10-15,Subscription,-8.99
+2023-10-16,Supermarket,-41.20
+2023-10-16,ACME SAS INVOICE 4601,-510.00
+2023-10-17,AMAZON PAYMENT,-42.99
+2023-10-17,Bank Transfer Fee,-0.80
+2023-10-18,Loan Payment,-320.50
+2023-10-18,Pharmacy,-11.30
+2023-10-19,Electronics,-199.90
+2023-10-19,Salary Adjustment,120.00
+2023-10-20,Museum,-12.00
+2023-10-21,Manual Adjustment,5.00
+2023-10-02,Accounting-only Late Entry,-18.50
+2023-10-07,Duplicate Cinema Entry,-15.00
+2023-10-11,Duplicate App Store Entry,-2.99
+2023-10-13,Duplicate Amazon Entry,-15.49
+2023-10-16,Duplicate Supermarket Entry,-41.20
+2023-10-04,Second UBER Entry,-12.30
+2023-10-12,Second Train Ticket,-78.60
+2023-10-01,Extra Chargeback,42.99
+2023-10-03,Correction Entry,0.01
+2023-10-08,Rounding Adjustment,-0.01
+2023-10-10,Small Fee,-1.50
+2023-10-06,Orphan Entry,-12.34

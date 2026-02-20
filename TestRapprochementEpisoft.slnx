@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="TestRapprochementEpisoft.tests/TestRapprochementEpisoft.tests.csproj" />
+  <Project Path="TestRapprochementEpisoft/TestRapprochementEpisoft.csproj" />
+</Solution>

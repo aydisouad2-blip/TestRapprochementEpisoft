@@ -1,0 +1,21 @@
+﻿Nb total banque: 73
+Nb total compta: 77
+Nb matchés: 70
+Nb non matchés banque: 3
+Nb non matchés compta: 7
+Nb de matchs faibles (score < 85): 2
+
+Cas ambigus (BankId -> Accounting candidates):
+- 7: 7, 66
+- 12: 12, 71
+- 29: 28, 67
+- 45: 42, 68
+- 49: 45, 72
+- 52: 47, 69
+- 63: 56, 70
+
+Transactions banque non matchées:
+42, 61, 67
+
+Transactions compta non matchées:
+65, 66, 73, 74, 75, 76, 77
