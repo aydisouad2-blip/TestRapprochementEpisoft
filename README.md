@@ -11,7 +11,7 @@ Console app + tests unitaires (MSTest) qui rapprochent un flux bancaire et un fl
 ## Contenu du dépôt
 
 - `TestRapprochementEpisoft` : console app
-- `ReconciliationEngine.Tests` : tests MSTest
+- `TestRapprochementEpisoft.Tests` : tests MSTest
 - `TestRapprochementEpisoft\output/` : fichiers générés sur le dataset fourni (`matches.csv`, `report.txt`)
 
 ## Exécution
